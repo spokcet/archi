@@ -1,0 +1,318 @@
+<!DOCTYPE HTML>
+<!--
+	TXT by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Department of Architecture, PNU</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header">
+				<a href="index.html"><img src="images/logo1.svg" width="407" height="66"></a>
+				</header>
+
+			<!-- Nav -->
+				<nav id="nav">
+					<ul>
+						<li class="current"><a href="index.html">Home</a></li>
+						<li><a href="main11_chair.html">About</a>
+									<ul>
+										<li><a href="main11_chair.html">학과장 인사말 <font color="#dccd68">Chair's welcome</font></a></li>
+										<li><a href="main13_history.html">연혁 및 비젼 <font color="#dccd68">History & Vision</font></a></li>
+										<li><a href="main14_facilities.html">학과시설 <font color="#dccd68">Facilities</font></a></li>
+										<li><a href="main15_students.html">학생동아리 <font color="#dccd68">Student's Activities</font></a></li>
+										<li><a href="main16_kaab.html">건축학인증 <font color="#dccd68">KAAB</font></a></li>
+										<li><a href="main17_map.html">찾아오시는 길 <font color="#dccd68">Map</font></a></li>
+									</ul>
+								</li>
+								<li><a href="main22_professors.html">Peoples</a>
+									<ul>
+										<li><a href="main22_professors.html">교수진 <font color="#dccd68">Faculty</font></a></li>
+										<li><a href="main21_office.html">학과사무실 <font color="#dccd68">Department Office</font></a></li>
+										<li><a href="main23_student union.html">학생회 <font color="#dccd68">Student's Union</font></a></li>
+									</ul>
+								</li>
+								<li><a href="main31_undergraduate.html">Program</a>
+									<ul>
+										<li><a href="main31_undergraduate.html">학부 <font color="#dccd68">Undergraduate</font></a></li>
+										<li><a href="main32_graduate.html">대학원 <font color="#dccd68">Graduate</font></a></li>
+										<li><a href="main33_program.html">사업단 <font color="#dccd68">Special Program</font></a>
+											<ul>
+												<li><a href="https://bk21archi.pusan.ac.kr/bk21archi/index..do" target="new">BK21교육사업단<font color="#dccd68">BK21 FOUR</font></a></li>
+												<li><a href="http:www.suae-asia.com">캠퍼스아시아 <font color="#dccd68">CAMPUS_Asia</font></a></li>
+											</ul>
+										</li>
+									</ul>
+								<li><a href="main41_student's work.html">Student's Works</a></a>
+											<ul>
+												<li><a href="main41_student's work.html">설계스튜디오 <font color="#dccd68">Design Studio</font></a></li>
+												<li><a href="main42_student's work.html">졸업설계작품 <font color="#dccd68">Graduate Works</font></a></li>
+											</ul>
+										</li>
+								<li><a href="main50_community.html">Community</a></a>
+											<ul>
+												<li><a href="main51_notice.html">공지사항 <font color="#dccd68">Notice Board</font></a></li>
+												<li><a href="main52_freeboard.html">자유게시판 <font color="#dccd68">Free Board</font></a></li>
+												<li><a href="main53_award.html">공모전수상 <font color="#dccd68">Awards News</font></a></li>
+												<li><a href="main54_form.html">학과자료실 <font color="#dccd68">Form & files</font></a></li>
+											</ul>
+										</li>
+							</ul>
+				</nav>
+
+			<!-- Main -->
+				<section id="main">
+					<div class="container">
+						<div class="row">
+							<div class="col-3 col-12-medium">
+								<div class="sidebar">
+
+									<!-- Sidebar -->
+
+										<!-- Recent Posts -->
+											<section>
+												<h2 class="major"><span><span><font color="#f0b516">Student's Works</font></span></h2>
+												<ul class="divided"><p>
+													<li>
+														<article class="box post-summary">
+															<h3><a href="main41_student's work.html">설계스튜디오 <font color="#89a1c5">Design Studio</font></a></h3>
+															
+														</article>
+													</li>
+													<li>
+														<article class="box post-summary">
+															<h3><a href="main42_student's work.html">졸업설계작품 <font color="#89a1c5">Graduate Works</font></a></h3>
+															
+														</article>
+													
+													</li>
+												</ul><br>
+												<a href="https://bk21archi.pusan.ac.kr/bk21archi/index..do" target="new" class="button alt">BK21 FOUR</a>
+											</section>
+
+										<!-- Something -->
+											<section>
+												<h2 class="major"><span>Cinema Paradise</span></h2>
+												<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
+												<p><font color="#89a1c5">캠퍼스아시아의 2021 겨울워크숍 프로그램으로서 빈공대(Austria), 팔레르모대(Italy), 동제대(China), 큐슈대(Japan)가 함께 참여하며 설계과제로서 이탈리아 시실리의 Bolognetta 계곡에 자연친화적인 시네마천국의 아이디어를 제안한다(2월 15일(월)부터 26일(금)까지).</font></p>
+												<a href="#" class="button alt">Learn more</a>
+											</section>
+								</div>
+							</div>
+							<div class="col-9 col-12-medium imp-medium">
+								<div class="content">
+
+									<!-- Content -->
+
+										<article class="box page-content">
+
+											<header>
+												<h2>Graduate Works</h2>
+												<p><font color="#89a1c5">졸업설계작품</font></p>
+												
+											</header>
+
+											<section>
+												<a class="image featured"><span><img src="images/base_01.jpg"/></a></span>
+												
+												<p>
+												
+												<h3><a href="main42_student's work.html">2019 졸업설계작품 <font color="#89a1c5"> Graduate Works 2019</font></a> <font color="red">| </font><a href="main42_student's work_2045.html"><font color="#b1b1b1">2020</font></a></h3>
+												<a class="image featured"><img src="images/line1.jpg" height=3 alt="" /></a>
+												<h4><a href="main42_student's work_1900.html"><font color="#b1b1b1">Theme : Lifestyle SOC / Prof. WOO Shinkoo</font></a></h4>
+												<a class="image featured"><img src="images/line1.jpg" height=1 alt="" /></a>
+												<h4><a href="main42_student's work_1945.html"><font color="#b1b1b1">Class 001 </font> <font color="#89a1c5">Graduate Works - Lifestyle SOC / 형상 形像</font></h4>
+												<a class="image featured"><img src="images/line1.jpg" height=1 alt="" /></a>
+												<h4><a href="main42_student's work_1946.html"><font color="#b1b1b1">Class 002 </font> <font color="#89a1c5">Graduate Works - Lifestyle SOC / 구상 構想</font></h4>
+												<a class="image featured"><img src="images/line1.jpg" height=1 alt="" /></a>
+												<h4><a href="main42_student's work_1947.html"><font color="red">Class 003 </font> <font color="#89a1c5">Graduate Works - Lifestyle SOC / 일상 日常</font></h4>
+												<a class="image featured"><img src="images/line1.jpg" height=1 alt="" /></a>
+												<h4><a href="main42_student's work_1948.html"><font color="#b1b1b1">Class 004 </font> <font color="#89a1c5">Graduate Works - Lifestyle SOC / 형상 形像</font> </h4>
+												
+												<a class="image featured"><img src="images/line1.jpg" height=3 alt="" /></a>
+
+												<h5>재충전의 공간 케렌시아  <font color="red">| </font>김영연 <font color="#89a1c5">Querencia <font color="red">| </font> Kim Yeong Yeon</font></h5>
+												<a class="image featured"><img src="images/g2019_073.jpg"  alt="" /></a>
+												<a class="image featured"><img src="images/g2019_074.jpg"  alt="" /></a>
+												<h5>포세이돈 <font color="red">| </font>김예준   <font color="#89a1c5">POSEIDON<font color="red">| </font>   Kim Ye Jun</font></h5>
+												<a class="image featured"><img src="images/g2019_075.jpg"  alt="" /></a>
+												<a class="image featured"><img src="images/g2019_076.jpg"  alt="" /></a>
+												<h5>일상 그리고 이상 <font color="red">| </font> 박상도<font color="#89a1c5">  Daily Life And Ideal<font color="red">| </font>  Park Sang Do </font></h5>
+												<a class="image featured"><img src="images/g2019_077.jpg"  alt="" /></a>
+												<a class="image featured"><img src="images/g2019_078.jpg"  alt="" /></a>
+												<h5>일상건강   <font color="red">| </font>박주현  <font color="#89a1c5">Everylife Health  <font color="red">| </font> Park Ju Hyeon</font></h5>
+												<a class="image featured"><img src="images/g2019_079.jpg"  alt="" /></a>
+												<a class="image featured"><img src="images/g2019_080.jpg"  alt="" /></a>
+												<a class="image featured"><img src="images/g2019_081.jpg"  alt="" /></a>
+												<h5>대평로 깡깡이제작공유지 <font color="red">| </font>류희표  <font color="#89a1c5">KangKangee commons for Makers <font color="red">| </font>  Ryu Hee Pyo</font></h5>
+												<a class="image featured"><img src="images/g2019_041.jpg"  alt="" /></a>
+												<a class="image featured"><img src="images/g2019_042.jpg"  alt="" /></a>
+												<a class="image featured"><img src="images/g2019_043.jpg"  alt="" /></a>
+												<h5>마켓컬리 스페이스 브랜딩 제안  <font color="red">| </font>박지윤  <font color="#89a1c5">Marketkurly Space Branding Proposal <font color="red">| </font> Park Ji Yun</font></h5>
+												<a class="image featured"><img src="images/g2019_044.jpg"  alt="" /></a>
+												<a class="image featured"><img src="images/g2019_045.jpg"  alt="" /></a>
+												<a class="image featured"><img src="images/g2019_046.jpg"  alt="" /></a>
+												<h5>회색지대, 공공도서관  <font color="red">| </font>박현석  <font color="#89a1c5">Gray Zone, Public Library  <font color="red">| </font> Park Hyeon Seok</font></h5>
+												<a class="image featured"><img src="images/g2019_047.jpg"  alt="" /></a>
+												<a class="image featured"><img src="images/g2019_048.jpg"  alt="" /></a>
+												<a class="image featured"><img src="images/g2019_049.jpg"  alt="" /></a>
+												<h5>海边的叠像 <font color="red">| </font>양예창   <font color="#89a1c5">Seaside panorama  <font color="red">| </font> Yang Ye Chang</font></h5>
+												<a class="image featured"><img src="images/g2019_050.jpg"  alt="" /></a>
+												<a class="image featured"><img src="images/g2019_051.jpg"  alt="" /></a>
+												<h5>朝花夕拾  <font color="red">| </font>위신충  <font color="#89a1c5">Dawn Blossoms Plucked at Dusk <font color="red">| </font>  Wi Sin Chung</font></h5>
+												<a class="image featured"><img src="images/g2019_052.jpg"  alt="" /></a>
+												<a class="image featured"><img src="images/g2019_053.jpg"  alt="" /></a>
+												<h5>오시게로 오시게  <font color="red">| </font>윤재웅   <font color="#89a1c5">C to:o C <font color="red">| </font> Yun Jae Ung</font></h5>
+												<a class="image featured"><img src="images/g2019_054.jpg"  alt="" /></a>
+												<a class="image featured"><img src="images/g2019_055.jpg"  alt="" /></a>
+												<a class="image featured"><img src="images/g2019_056.jpg"  alt="" /></a>
+												<h5>다시오고 싶은 공간  <font color="red">| </font>윤현근   <font color="#89a1c5">回 : RE <font color="red">| </font> Yun Hyun Geun</font></h5>
+												<a class="image featured"><img src="images/g2019_057.jpg"  alt="" /></a>
+												<a class="image featured"><img src="images/g2019_058.jpg"  alt="" /></a>
+												<h5>허브와 함께  <font color="red">| </font>이재희   <font color="#89a1c5">PLAYIN WIT HUB <font color="red">| </font> Lee Jae Hee</font></h5>
+												<a class="image featured"><img src="images/g2019_059.jpg"  alt="" /></a>
+												<a class="image featured"><img src="images/g2019_060.jpg"  alt="" /></a>
+												<a class="image featured"><img src="images/g2019_061.jpg"  alt="" /></a>
+												<h5>여울마당  <font color="red">| </font>전부현  <font color="#89a1c5">Yeul-Madang <font color="red">| </font> Jeon Bu Hyeon</font></h5>
+												<a class="image featured"><img src="images/g2019_062.jpg"  alt="" /></a>
+												<a class="image featured"><img src="images/g2019_063.jpg"  alt="" /></a>
+												<a class="image featured"><img src="images/g2019_064.jpg"  alt="" /></a>
+												<h5>도심형 캠퍼스 타운  <font color="red">| </font>정유은  <font color="#89a1c5">Urban Campus Town <font color="red">| </font> Jung Yu Eun</font></h5>
+												<a class="image featured"><img src="images/g2019_065.jpg"  alt="" /></a>
+												<a class="image featured"><img src="images/g2019_066.jpg"  alt="" /></a>
+												<a class="image featured"><img src="images/g2019_067.jpg"  alt="" /></a>
+												<h5>놀이_터  <font color="red">| </font>정지은  <font color="#89a1c5">Play_ground <font color="red">| </font>  Jung Ji Eun</font></h5>
+												<a class="image featured"><img src="images/g2019_068.jpg"  alt="" /></a>
+												<a class="image featured"><img src="images/g2019_069.jpg"  alt="" /></a>
+												<a class="image featured"><img src="images/g2019_070.jpg"  alt="" /></a>
+												<h5>자연을 깨닫다 <font color="red">| </font>진민우 <font color="#89a1c5">Realize nature <font color="red">| </font>  Jin Min Woo</font></h5>
+												<a class="image featured"><img src="images/g2019_071.jpg"  alt="" /></a>
+												<a class="image featured"><img src="images/g2019_072.jpg"  alt="" /></a>
+												<a class="image featured"><img src="images/g2019_073.jpg"  alt="" /></a>
+
+												<p><br><br>
+								
+
+
+										</article>
+
+								</div>
+							</div>
+
+							<div class="col-12">
+
+								<!-- Features -->
+									<section class="box features">
+										<h2 class="major"><span><span>About Department of Architecture, PNU</span></h2>
+										<div>
+											<div class="row">
+												<div class="col-3 col-6-medium col-12-small">
+
+													<!-- Feature -->
+														<section class="box feature">
+															<a href="main22_professors.html" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+															<h3><a href="main22_professors.html">Faculty Members</a></h3>
+															<p><font color="#dca06f">[교수진]</font> 현재 학과에는 10인의 학과 교수진, 2인의 사업단 연구교수 그리고 4인의 학과/시업단 스텝이 근무하고 있다.</p>  
+														</section>
+
+												</div>
+												<div class="col-3 col-6-medium col-12-small">
+
+													<!-- Feature -->
+														<section class="box feature">
+															<a href="main41_research.html" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
+															<h3><a href="main41_research.html">Research</a></h3>
+															<p><font color="#dca06f">[연구]</font> 학과의 교수진과 사업단에서 진행하고 있는 주요 연구과제와 연구실적을 보실 수 있습니다.</p>  
+														</section>
+
+												</div>
+												<div class="col-3 col-6-medium col-12-small">
+
+													<!-- Feature -->
+														<section class="box feature">
+															<a href="main15_students.html" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+															<h3><a href="main15_students.html">Student's Activities</a></h3>
+															<p><font color="#dca06f">[학생활동]</font> 학과 학생회의 활동과 설계스튜디오위 학생작품을 소개하고 있습니다.</p>  
+														</section>
+
+												</div>
+												<div class="col-3 col-6-medium col-12-small">
+
+													<!-- Feature -->
+														<section class="box feature">
+															<a href="https://go.pusan.ac.kr/college_2016/main/main.asp?" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+															<h3><a href="https://go.pusan.ac.kr/college_2016/main/main.asp?">Undergraduate Admission</a></h3>
+															<p><font color="#dca06f">[학부입학]</font> 학과(학부)의 입학정보를 안내하고 있습니다.</p>  
+															
+														</section>
+
+												</div>
+												<div class="col-12">
+													<ul class="actions">
+														<li><a href="apply.html" class="button large">건축학인증/KAAB</a></li>
+														<li><a href="introduction.html" class="button alt large">Specialty of Department!!</a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
+									</section>
+
+							</div>
+						</div>
+					</div>
+				</section>
+
+			<!-- Footer -->
+				<footer id="footer">
+					<div class="container">
+						<div class="row gtr-200">
+							
+							<div class="col-12">
+
+								<!-- Contact -->
+									<section>
+										<ul class="contact">
+											<li><a class="icon brands fa-facebook-f" href="#"><span class="label">Facebook</span></a></li>
+											<li><a class="icon brands fa-twitter" href="#"><span class="label">Twitter</span></a></li>
+											<li><a class="icon brands fa-instagram" href="#"><span class="label">Instagram</span></a></li>
+											<li><a class="icon brands fa-dribbble" href="#"><span class="label">Dribbble</span></a></li>
+											<li><a class="icon brands fa-linkedin-in" href="#"><span class="label">LinkedIn</span></a></li>
+										</ul>
+									</section>
+							</div>
+						</div>
+
+						<!-- Copyright -->
+							<div id="copyright">
+								<ul class="menu"><left>
+									<li>Shortcut | 개인정보처리방침 | 저작권보호정책 | 이메일무단수집거부</li>
+<li>(46241) 부산광역시 금정구 부산대학로63번길 2 (장전동) 부산대학교 401건설관 9층 건설융합학부 건축학전공</li>
+<li>2, Busandaehak-ro 63beon-gil, Geumjeong-gu, Busan, 46241, Korea TEL : 051-510-1487 FAX : 051-512-8478</li>
+<li>&copy; Department of Architecture, PNU All rights reserved</li>
+								</ul>
+							</div>
+
+					</div>
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
